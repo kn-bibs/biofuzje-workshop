@@ -3,7 +3,7 @@ identifying and performing basic characterization of a {} genome sequence
 
 ## Viewing the notebook
 
-Notebook file is available [here]()
+Notebook file is available [here](https://github.com/kn-bibs/biofuzje-workshop/blob/main/biofuzje-notebook.ipynb)
 
 
 ## Running the notebook
