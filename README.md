@@ -1,6 +1,5 @@
 # Biofuzje 2025 - Bioinformatics workshop
-identifying and performing basic characterization of a {} genome sequence
-
+identifying and performing basic characterization of unknown nucleotide sequence
 ## Viewing the notebook
 
 Notebook file is available [here](https://github.com/kn-bibs/biofuzje-workshop/blob/main/biofuzje-notebook.ipynb)
